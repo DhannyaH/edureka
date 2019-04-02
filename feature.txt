@@ -1,1 +1,3 @@
-Text file for feature 
+Text file for feature is of DevHarry
+this is line 2 in DevHarry
+this is line 3 in DevKane. to test merge confict 
