@@ -1,2 +1,4 @@
 Text file for feature is of DevHarry
 this is line 3 in DevKane. to test merge confict 
+This is DevHarry
+Making new changes after merge conflict
